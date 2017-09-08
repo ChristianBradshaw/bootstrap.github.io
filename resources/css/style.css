@@ -1,0 +1,96 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+  background-color: #563D7C;
+  color: white;
+}
+
+.monkeyBrand{
+  height: 3.7vh;
+  filter: brightness(5);
+}
+
+.nav-item{
+  font-weight: 300;
+}
+
+.navIcons{
+  line-height: 2.5rem;
+  font-size: 1.2em;
+  filter: opacity(0.5);
+}
+
+.mainButton{
+  font-weight: 700;
+  padding-top: 10px;
+  border-color: #ffe484;
+  color: #ffe484; 
+}
+
+.btnOptions{
+  padding: 12px 64px;
+  margin-right: 16px;
+  line-height: 30px;
+  font-size: 20px;
+}
+
+.btnOptionsPurple{
+  border-color: #563D7C;
+  color: #7952b3;
+}
+
+.btnOptionsPurple:hover{
+  border-color: #563D7C;
+  color: white;
+  background-color: #7952b3;
+}
+
+h1{
+  color: #7952B3;
+  line-height: 64px;
+}
+
+.text-muted{
+  font-size: 16px !important;
+}
+
+.mainSection{
+  padding: 5rem 0;
+  height: 808px;
+}
+
+
+.mainSection p{
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 300;
+}
+
+hr{
+  width: 20%;
+  margin: 2.5rem 0;
+}
+
+.featureIcons{
+  font-size: 35px;
+  color: #007bff;
+}
+
+footer{
+  font-size: 13.6px;
+  line-height: 20.4px;
+  background: #f7f7f7;
+  color: #868e96;
+}
+
+footer a{
+  font-weight: 700;
+  color: #495057;
+}
+
+
+
+
+
